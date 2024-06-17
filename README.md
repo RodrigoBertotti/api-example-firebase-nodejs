@@ -249,7 +249,3 @@ Feel free to open a GitHub issue about:
 
 This project used as reference part of the structure of the GitHub project [node-typescript-restify](https://github.com/vinicostaa/node-typescript-restify).
 Thank you [developer](https://github.com/vinicostaa/)!
-
-## Contacting me
-
-📧 rodrigo@wisetap.com
